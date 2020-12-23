@@ -20,9 +20,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#449](https://github.com/nunomaduro/phpinsights/issues/449) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+1. ❗️ Opened issue [#3](https://github.com/uPagge/uBlogger/issues/3) in [uPagge/uBlogger](https://github.com/uPagge/uBlogger)
 2. 🗣 Commented on [#449](https://github.com/nunomaduro/phpinsights/issues/449) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-3. 💪 Opened PR [#116](https://github.com/brendt/stitcher.io/pull/116) in [brendt/stitcher.io](https://github.com/brendt/stitcher.io)
-4. 🗣 Commented on [#447](https://github.com/nunomaduro/phpinsights/issues/447) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-5. 🗣 Commented on [#26](https://github.com/php/php-tasks/issues/26) in [php/php-tasks](https://github.com/php/php-tasks)
+3. 🗣 Commented on [#449](https://github.com/nunomaduro/phpinsights/issues/449) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+4. 💪 Opened PR [#116](https://github.com/brendt/stitcher.io/pull/116) in [brendt/stitcher.io](https://github.com/brendt/stitcher.io)
+5. 🗣 Commented on [#447](https://github.com/nunomaduro/phpinsights/issues/447) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
 <!--END_SECTION:activity-->
