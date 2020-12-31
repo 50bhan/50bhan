@@ -10,7 +10,7 @@
 
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=50bhan&show_icons=true" align="right" height="180" />
 
-- 🔭 Software Developer
+- 🔭 Software Engineer
 - :fire: PHP Enthusiast
 - :hearts: OpenSource Lover
 - :mega: Currently working on a marketplace [[Timcheh](https://timcheh.com)]
