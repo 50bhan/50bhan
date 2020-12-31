@@ -20,9 +20,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#450](https://github.com/nunomaduro/phpinsights/issues/450) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-2. 🗣 Commented on [#3](https://github.com/uPagge/uBlogger/issues/3) in [uPagge/uBlogger](https://github.com/uPagge/uBlogger)
-3. 🗣 Commented on [#450](https://github.com/nunomaduro/phpinsights/issues/450) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+1. ❗️ Opened issue [#8](https://github.com/uPagge/uBlogger/issues/8) in [uPagge/uBlogger](https://github.com/uPagge/uBlogger)
+2. 🗣 Commented on [#450](https://github.com/nunomaduro/phpinsights/issues/450) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+3. 🗣 Commented on [#3](https://github.com/uPagge/uBlogger/issues/3) in [uPagge/uBlogger](https://github.com/uPagge/uBlogger)
 4. 🗣 Commented on [#450](https://github.com/nunomaduro/phpinsights/issues/450) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-5. ❗️ Opened issue [#3](https://github.com/uPagge/uBlogger/issues/3) in [uPagge/uBlogger](https://github.com/uPagge/uBlogger)
+5. 🗣 Commented on [#450](https://github.com/nunomaduro/phpinsights/issues/450) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
 <!--END_SECTION:activity-->
