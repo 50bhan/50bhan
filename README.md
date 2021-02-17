@@ -20,9 +20,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/mohammad-fouladgar/eloquent-builder/pull/90) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-2. ❗️ Closed issue [#89](https://github.com/mohammad-fouladgar/eloquent-builder/issues/89) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-3. 💪 Opened PR [#90](https://github.com/mohammad-fouladgar/eloquent-builder/pull/90) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-4. 🗣 Commented on [#89](https://github.com/mohammad-fouladgar/eloquent-builder/issues/89) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-5. 💪 Opened PR [#221](https://github.com/thank-you-php/thank-you-php/pull/221) in [thank-you-php/thank-you-php](https://github.com/thank-you-php/thank-you-php)
+1. 🗣 Commented on [#91](https://github.com/mohammad-fouladgar/eloquent-builder/issues/91) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+2. 💪 Opened PR [#91](https://github.com/mohammad-fouladgar/eloquent-builder/pull/91) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+3. 🎉 Merged PR [#90](https://github.com/mohammad-fouladgar/eloquent-builder/pull/90) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+4. ❗️ Closed issue [#89](https://github.com/mohammad-fouladgar/eloquent-builder/issues/89) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+5. 💪 Opened PR [#90](https://github.com/mohammad-fouladgar/eloquent-builder/pull/90) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
 <!--END_SECTION:activity-->
