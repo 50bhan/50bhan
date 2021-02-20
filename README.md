@@ -24,5 +24,5 @@
 2. 🗣 Commented on [#2978](https://github.com/symplify/symplify/issues/2978) in [symplify/symplify](https://github.com/symplify/symplify)
 3. 🗣 Commented on [#2978](https://github.com/symplify/symplify/issues/2978) in [symplify/symplify](https://github.com/symplify/symplify)
 4. 🗣 Commented on [#2978](https://github.com/symplify/symplify/issues/2978) in [symplify/symplify](https://github.com/symplify/symplify)
-5. 🗣 Commented on [#122](https://github.com/povils/phpmnd/issues/122) in [povils/phpmnd](https://github.com/povils/phpmnd)
+5. 🗣 Commented on [#2978](https://github.com/symplify/symplify/issues/2978) in [symplify/symplify](https://github.com/symplify/symplify)
 <!--END_SECTION:activity-->
