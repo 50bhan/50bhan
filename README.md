@@ -20,7 +20,7 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2978](https://github.com/symplify/symplify/issues/2978) in [symplify/symplify](https://github.com/symplify/symplify)
+1. 💪 Opened PR [#164](https://github.com/mohammad-fouladgar/laravel-mobile-verification/pull/164) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
 2. 🗣 Commented on [#2978](https://github.com/symplify/symplify/issues/2978) in [symplify/symplify](https://github.com/symplify/symplify)
 3. 🗣 Commented on [#2978](https://github.com/symplify/symplify/issues/2978) in [symplify/symplify](https://github.com/symplify/symplify)
 4. 🗣 Commented on [#2978](https://github.com/symplify/symplify/issues/2978) in [symplify/symplify](https://github.com/symplify/symplify)
