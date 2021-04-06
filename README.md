@@ -21,8 +21,8 @@
 #### Github Recent Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#166](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/166) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
-2. 🗣 Commented on [#1105](https://github.com/slevomat/coding-standard/issues/1105) in [slevomat/coding-standard](https://github.com/slevomat/coding-standard)
-3. ❗️ Closed issue [#25](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/25) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
-4. 🗣 Commented on [#25](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/25) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
-5. 🎉 Merged PR [#164](https://github.com/mohammad-fouladgar/laravel-mobile-verification/pull/164) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
+2. 🗣 Commented on [#166](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/166) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
+3. 🗣 Commented on [#1105](https://github.com/slevomat/coding-standard/issues/1105) in [slevomat/coding-standard](https://github.com/slevomat/coding-standard)
+4. ❗️ Closed issue [#25](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/25) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
+5. 🗣 Commented on [#25](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/25) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
 <!--END_SECTION:activity-->
