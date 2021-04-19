@@ -20,9 +20,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#477](https://github.com/nunomaduro/phpinsights/pull/477) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-2. 🗣 Commented on [#436](https://github.com/nunomaduro/phpinsights/issues/436) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+1. 🗣 Commented on [#473](https://github.com/nunomaduro/phpinsights/issues/473) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+2. 💪 Opened PR [#477](https://github.com/nunomaduro/phpinsights/pull/477) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
 3. 🗣 Commented on [#436](https://github.com/nunomaduro/phpinsights/issues/436) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-4. 🗣 Commented on [#474](https://github.com/nunomaduro/phpinsights/issues/474) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-5. 🗣 Commented on [#473](https://github.com/nunomaduro/phpinsights/issues/473) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+4. 🗣 Commented on [#436](https://github.com/nunomaduro/phpinsights/issues/436) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+5. 🗣 Commented on [#474](https://github.com/nunomaduro/phpinsights/issues/474) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
 <!--END_SECTION:activity-->
