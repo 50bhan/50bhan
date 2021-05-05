@@ -20,9 +20,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#483](https://github.com/nunomaduro/phpinsights/issues/483) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-2. 🗣 Commented on [#1108](https://github.com/slevomat/coding-standard/issues/1108) in [slevomat/coding-standard](https://github.com/slevomat/coding-standard)
-3. 🗣 Commented on [#1212](https://github.com/slevomat/coding-standard/issues/1212) in [slevomat/coding-standard](https://github.com/slevomat/coding-standard)
-4. 🗣 Commented on [#1213](https://github.com/slevomat/coding-standard/issues/1213) in [slevomat/coding-standard](https://github.com/slevomat/coding-standard)
+1. 🗣 Commented on [#485](https://github.com/nunomaduro/phpinsights/issues/485) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+2. 🗣 Commented on [#483](https://github.com/nunomaduro/phpinsights/issues/483) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+3. 🗣 Commented on [#1108](https://github.com/slevomat/coding-standard/issues/1108) in [slevomat/coding-standard](https://github.com/slevomat/coding-standard)
+4. 🗣 Commented on [#1212](https://github.com/slevomat/coding-standard/issues/1212) in [slevomat/coding-standard](https://github.com/slevomat/coding-standard)
 5. 🗣 Commented on [#1213](https://github.com/slevomat/coding-standard/issues/1213) in [slevomat/coding-standard](https://github.com/slevomat/coding-standard)
 <!--END_SECTION:activity-->
