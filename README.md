@@ -20,9 +20,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#501](https://github.com/nunomaduro/phpinsights/issues/501) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-2. 🗣 Commented on [#490](https://github.com/nunomaduro/phpinsights/issues/490) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-3. 🗣 Commented on [#93](https://github.com/mohammad-fouladgar/eloquent-builder/issues/93) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-4. 🎉 Merged PR [#93](https://github.com/mohammad-fouladgar/eloquent-builder/pull/93) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-5. 🗣 Commented on [#490](https://github.com/nunomaduro/phpinsights/issues/490) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+1. 🗣 Commented on [#503](https://github.com/nunomaduro/phpinsights/issues/503) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+2. 🗣 Commented on [#501](https://github.com/nunomaduro/phpinsights/issues/501) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+3. 🗣 Commented on [#490](https://github.com/nunomaduro/phpinsights/issues/490) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+4. 🗣 Commented on [#93](https://github.com/mohammad-fouladgar/eloquent-builder/issues/93) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+5. 🎉 Merged PR [#93](https://github.com/mohammad-fouladgar/eloquent-builder/pull/93) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
 <!--END_SECTION:activity-->
