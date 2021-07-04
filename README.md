@@ -20,9 +20,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#509](https://github.com/nunomaduro/phpinsights/issues/509) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-2. 🗣 Commented on [#167](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/167) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
-3. 🗣 Commented on [#1](https://github.com/50bhan/coding-standard/issues/1) in [50bhan/coding-standard](https://github.com/50bhan/coding-standard)
-4. 🗣 Commented on [#511](https://github.com/nunomaduro/phpinsights/issues/511) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-5. 🗣 Commented on [#167](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/167) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
+1. ❗️ Closed issue [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
+2. 🗣 Commented on [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
+3. 🗣 Commented on [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
+4. ❗️ Opened issue [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
+5. 🗣 Commented on [#509](https://github.com/nunomaduro/phpinsights/issues/509) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
 <!--END_SECTION:activity-->
