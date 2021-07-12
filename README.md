@@ -20,9 +20,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
-2. 🗣 Commented on [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
+1. 🗣 Commented on [#408](https://github.com/nunomaduro/phpinsights/issues/408) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+2. ❗️ Closed issue [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
 3. 🗣 Commented on [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
-4. ❗️ Opened issue [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
-5. 🗣 Commented on [#509](https://github.com/nunomaduro/phpinsights/issues/509) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+4. 🗣 Commented on [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
+5. ❗️ Opened issue [#6550](https://github.com/rectorphp/rector/issues/6550) in [rectorphp/rector](https://github.com/rectorphp/rector)
 <!--END_SECTION:activity-->
