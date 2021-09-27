@@ -13,7 +13,6 @@
 - 🔭 Software Engineer
 - :fire: PHP Enthusiast
 - :hearts: OpenSource Lover
-- :mega: Currently working on a marketplace [[Timcheh](https://timcheh.com)]
 - 🚀 Love exploring new tech stacks and building cool stuff
 
 <br><br><br><hr>
