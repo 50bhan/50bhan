@@ -19,9 +19,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#536](https://github.com/nunomaduro/phpinsights/issues/536) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+1. 🗣 Commented on [#537](https://github.com/nunomaduro/phpinsights/issues/537) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
 2. 🗣 Commented on [#536](https://github.com/nunomaduro/phpinsights/issues/536) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
 3. 🗣 Commented on [#536](https://github.com/nunomaduro/phpinsights/issues/536) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-4. 💪 Opened PR [#6446](https://github.com/vimeo/psalm/pull/6446) in [vimeo/psalm](https://github.com/vimeo/psalm)
-5. 🗣 Commented on [#527](https://github.com/nunomaduro/phpinsights/issues/527) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+4. 🗣 Commented on [#536](https://github.com/nunomaduro/phpinsights/issues/536) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+5. 💪 Opened PR [#6446](https://github.com/vimeo/psalm/pull/6446) in [vimeo/psalm](https://github.com/vimeo/psalm)
 <!--END_SECTION:activity-->
