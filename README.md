@@ -19,9 +19,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/mohammad-fouladgar/eloquent-builder/pull/96) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-2. 🗣 Commented on [#551](https://github.com/nunomaduro/phpinsights/issues/551) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-3. 🗣 Commented on [#551](https://github.com/nunomaduro/phpinsights/issues/551) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-4. 🗣 Commented on [#536](https://github.com/nunomaduro/phpinsights/issues/536) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-5. 🗣 Commented on [#536](https://github.com/nunomaduro/phpinsights/issues/536) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+1. 💪 Opened PR [#172](https://github.com/mohammad-fouladgar/laravel-mobile-verification/pull/172) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
+2. 🗣 Commented on [#95](https://github.com/mohammad-fouladgar/eloquent-builder/issues/95) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+3. 💪 Opened PR [#96](https://github.com/mohammad-fouladgar/eloquent-builder/pull/96) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+4. 🗣 Commented on [#551](https://github.com/nunomaduro/phpinsights/issues/551) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+5. 🗣 Commented on [#551](https://github.com/nunomaduro/phpinsights/issues/551) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
 <!--END_SECTION:activity-->
