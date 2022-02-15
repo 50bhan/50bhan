@@ -19,9 +19,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#561](https://github.com/nunomaduro/phpinsights/issues/561) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-2. 🗣 Commented on [#2](https://github.com/mohammad-fouladgar/laravel-otp/issues/2) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
-3. 🗣 Commented on [#172](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/172) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
-4. 🗣 Commented on [#561](https://github.com/nunomaduro/phpinsights/issues/561) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
-5. 🗣 Commented on [#560](https://github.com/nunomaduro/phpinsights/issues/560) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+1. 🗣 Commented on [#2](https://github.com/mohammad-fouladgar/laravel-otp/issues/2) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
+2. 💪 Opened PR [#4](https://github.com/mohammad-fouladgar/laravel-otp/pull/4) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
+3. 🗣 Commented on [#561](https://github.com/nunomaduro/phpinsights/issues/561) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+4. 🗣 Commented on [#2](https://github.com/mohammad-fouladgar/laravel-otp/issues/2) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
+5. 🗣 Commented on [#172](https://github.com/mohammad-fouladgar/laravel-mobile-verification/issues/172) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
 <!--END_SECTION:activity-->
