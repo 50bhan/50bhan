@@ -19,9 +19,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#97](https://github.com/mohammad-fouladgar/eloquent-builder/pull/97) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-2. 💪 Opened PR [#97](https://github.com/mohammad-fouladgar/eloquent-builder/pull/97) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-3. 🗣 Commented on [#2](https://github.com/mohammad-fouladgar/laravel-otp/issues/2) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
-4. 💪 Opened PR [#4](https://github.com/mohammad-fouladgar/laravel-otp/pull/4) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
-5. 🗣 Commented on [#561](https://github.com/nunomaduro/phpinsights/issues/561) in [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights)
+1. 💪 Opened PR [#98](https://github.com/mohammad-fouladgar/eloquent-builder/pull/98) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+2. ❌ Closed PR [#97](https://github.com/mohammad-fouladgar/eloquent-builder/pull/97) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+3. 💪 Opened PR [#97](https://github.com/mohammad-fouladgar/eloquent-builder/pull/97) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+4. 🗣 Commented on [#2](https://github.com/mohammad-fouladgar/laravel-otp/issues/2) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
+5. 💪 Opened PR [#4](https://github.com/mohammad-fouladgar/laravel-otp/pull/4) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
 <!--END_SECTION:activity-->
