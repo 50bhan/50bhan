@@ -19,9 +19,9 @@
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/mohammad-fouladgar/eloquent-builder/issues/98) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-2. 💪 Opened PR [#98](https://github.com/mohammad-fouladgar/eloquent-builder/pull/98) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-3. ❌ Closed PR [#97](https://github.com/mohammad-fouladgar/eloquent-builder/pull/97) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-4. 💪 Opened PR [#97](https://github.com/mohammad-fouladgar/eloquent-builder/pull/97) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
-5. 🗣 Commented on [#2](https://github.com/mohammad-fouladgar/laravel-otp/issues/2) in [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp)
+1. 💪 Opened PR [#173](https://github.com/mohammad-fouladgar/laravel-mobile-verification/pull/173) in [mohammad-fouladgar/laravel-mobile-verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
+2. 🗣 Commented on [#98](https://github.com/mohammad-fouladgar/eloquent-builder/issues/98) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+3. 💪 Opened PR [#98](https://github.com/mohammad-fouladgar/eloquent-builder/pull/98) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+4. ❌ Closed PR [#97](https://github.com/mohammad-fouladgar/eloquent-builder/pull/97) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
+5. 💪 Opened PR [#97](https://github.com/mohammad-fouladgar/eloquent-builder/pull/97) in [mohammad-fouladgar/eloquent-builder](https://github.com/mohammad-fouladgar/eloquent-builder)
 <!--END_SECTION:activity-->
