@@ -8,14 +8,11 @@
   </a>
 </p>
 
-<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=50bhan&show_icons=true" align="right" height="180" />
-
-- 🔭 Software Engineer
-- :fire: PHP Enthusiast
+- 🔭 Software Architect
 - :hearts: OpenSource Lover
 - 🚀 Love exploring new tech stacks and building cool stuff
 
-<br><br><br><hr>
+<br><br><hr>
 
 #### Github Recent Activities
 <!--START_SECTION:activity-->
